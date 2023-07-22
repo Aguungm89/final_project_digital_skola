@@ -1,0 +1,22 @@
+{
+    "hadoop":{
+        "ip":"http://localhost:9870",
+        "user":"agung"
+    },
+
+    "datalake":{
+        "host":"localhost",
+        "user":"postgres",
+        "password":"sembarang89",
+        "database":"datalake_finpro",
+        "port":5432
+    },
+
+    "datawarehouse":{
+        "host":"localhost",
+        "user":"postgres",
+        "password":"sembarang89",
+        "database":"dwh_finpro",
+        "port":5432
+    }
+}
